@@ -22,8 +22,7 @@ nav ul {
 nav ul li  {
    display:inline-block;
     color: #fff;
-   margin: 20px 30px;
-    list-style: ;
+    margin: 20px 30px;
     font-size: 17px;
 }
 
@@ -96,6 +95,6 @@ h3{
 
 
 .box :inth-of-type(2){
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTht7VKs0QMEZEEAyBgToggCkKGw5vn14XBaw&usqp=CAU);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTht7VKs0QMEZEEAyBgToggCkKGw5vn14XBaw&usqp=CAU");
         
 }
